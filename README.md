@@ -1,5 +1,5 @@
 # Meu estudo de C
-# 📚 Conteudos Vistos
+## 📚 Conteudos Vistos
 
 - ~~🏠 **C HOME**~~  
 - ~~📖 **C Intro**~~  
