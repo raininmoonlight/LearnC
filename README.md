@@ -1,5 +1,6 @@
 # Meu estudo de C
 ## 📚 Conteudos Vistos
+**Estudando pela** [W3Schools](https://www.w3schools.com/c/index.php)
 
 - ~~🏠 **C HOME**~~  
 - ~~📖 **C Intro**~~  
