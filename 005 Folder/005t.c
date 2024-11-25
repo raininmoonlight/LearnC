@@ -7,6 +7,7 @@ int main() {
     float precoPorItem = 12.99;
     float valorTotal = quantidadeItens * precoPorItem;
     char moeda[3] = "R$";
+    
 
     printf("Quantidade de itens: %d\n", quantidadeItens);
     printf("Preco por item: %.2f\n", precoPorItem);
